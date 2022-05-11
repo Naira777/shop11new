@@ -1,0 +1,45 @@
+.category {
+  height: 1711px;
+  width: 360px;
+  margin-left: 10px;
+ 
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 40px;
+}
+
+.boxContent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.text {
+  font-family: "Mardoto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #212121;
+}
+
+.text1 {
+  font-family: "Mardoto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #999999;
+  margin-top: 25px;
+}
+.vector {
+
+
+  height: 14px;
+width: 14px;
+margin-top: 22px;
+
+}

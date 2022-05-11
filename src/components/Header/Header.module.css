@@ -1,0 +1,38 @@
+.header {
+
+    height: 32px;
+    width: 360px;   
+    background: #FCFCFC;
+    
+
+
+}
+.box {
+
+
+float: right;
+margin-top: 7px;
+margin-right: 10px;
+}
+.drosh{
+
+height: 20px;
+width: 24px;
+border-radius: 50%;
+
+}
+.vector{
+
+float: right;
+margin-left: 5px;
+margin-top: 5px;
+}
+.phone {
+
+
+    height: 20px;
+width: 126px;
+margin-top: 5px;
+margin-left: 10px;
+
+}

@@ -1,0 +1,137 @@
+.content {
+
+height: 160px;
+width: 320px;
+display: flex;
+flex-direction: row;
+margin-top: 30px;
+border: 1px solid #EDEDED;
+border-radius: 4px;
+
+}
+.pic1 {
+transform: translate(-20px, -100px);
+    
+}
+.pic2 {
+transform: translate(-60px, -80px);
+    
+}
+.box1 {
+   
+    width: 112px;
+    height: 144px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+
+.picBig {
+
+height: 83px;
+width: 112px;
+border-radius: 4px;
+margin-top: 35px;
+}
+.box2 {
+display: flex;
+flex-direction: column;
+margin-top: 0px;
+margin-left: 10px;
+
+}
+.text {
+    
+font-family: 'Mardoto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 130%;
+color: #212121;
+
+
+
+}
+.star{
+
+
+    width: 76px;
+    height: 14px;
+  
+
+}
+
+.Priceline{
+
+font-family: 'Mardoto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-decoration-line: line-through;
+color: #999999;
+
+}
+.Price {
+
+
+    font-family: 'Mardoto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #212121;
+margin-top: -15px;
+
+
+}
+.Pricefor1 {
+
+
+font-family: 'Mardoto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: #999999;
+margin-top: -15px;
+
+}
+.box3 {
+
+display: flex;
+flex-direction: row;
+
+
+}
+.box2 {
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 25px;
+
+
+    
+}
+.basket{
+
+    width: 36px;
+    height: 36px;    
+    background: #3D9A85;
+    border-radius: 4px;
+    transform: translate(150px, -50px);
+
+}
+.picbasket {
+
+    height: 12.500306129455566px;
+    width: 18.33333396911621px;
+    margin-left: 8px;
+   margin-top: 10px;
+    
+
+}
+

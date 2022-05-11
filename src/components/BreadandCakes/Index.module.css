@@ -1,0 +1,60 @@
+.Content {
+
+width: 360px;
+height: 1391px;
+margin-left: 15px;
+
+}
+
+.vector {
+
+
+    height: 14px;
+  width: 14px;
+  margin-top: 22px;
+  
+  }
+
+  .text {
+    font-family: "Mardoto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #212121;
+  }
+
+.Button {
+
+
+padding: 8px;
+font-family: 'Mardoto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 130%;
+text-align: center;
+margin-right: 20px;
+margin-bottom: 10px;
+background: #F6F6F6;
+border-radius: 4px;
+color: black;
+
+
+:active {
+    background: #3D9A85;
+
+}
+
+  }
+
+  .Box{
+
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .boxContent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
